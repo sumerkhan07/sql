@@ -40,10 +40,6 @@ Insatallation is required.<br>
 Multiple  user can access.<br>
 Database is required.<br>
 
-[Server :It is teh super computer ans it is a place where all the application are install]
-
-
-
-![The-3-tier-architecture](https://github.com/user-attachments/assets/e4c1097a-93d3-498b-95d2-b18608daa01a)
+[Server :It is teh super computer and  it is a place where all the application are install]
 
 
