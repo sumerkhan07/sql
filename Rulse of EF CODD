@@ -1,0 +1,40 @@
+Rules of Ef CODD <br>
+1- For a DBMS called as RDBMS the data should be store in the form of table. <br>
+2- There can be multiple table in a data base with not the same name.<br>
+3- The data store in database/tables should have some relation,among itself. <br>
+4- Every cell should be singular or atomic.that is each cell should hold only one value. <br>
+
+[Note : For a DBMS to be converted into RDBMS it should follows <br>
+all the above mentioned EF coded Rules]<br>
+
+Data Represtation<br>
+
+Database<br> 
+    |
+Accounts<br>
+    |
+  Tables <br>
+    |
+  Data<br>
+
+Data is not directly store in Database in state it store in from of table.<br>
+Tables are not directly store or created in the database.They are store in accounts.<br>
+Accounts are present or can be created in the database.<br>
+
+Database can consits of multiple accounts.<br>
+Mainly there are 2 types of accounts<br>
+
+They are <br>
+1)Predefinne accounts [Already created ]<br>
+2)Userdefine accounts [Created by user]<br>
+
+Both the type of account can be multiple but with not same name.<br>
+There can be more than one table with same name in database but in diffrent acounts.<br>
+
+Root acoount <br>
+Every database has root account called as System account.<br>
+The account which has all the permissions to operate on entire database is called as root account.<br>
+Even if it has all the pemissions to operate entire database ,it cannot perform any operation on the data which store some other accounts.<br>
+
+
+
