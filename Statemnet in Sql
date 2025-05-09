@@ -1,0 +1,28 @@
+STATEMENT 
+Statement are the commds using which we can perfrom CURD operations on the database.
+1--Data defination language(DDL)
+   1-Create
+   2-Reanme
+   3-Alter
+   4-Truncate
+   5-Drop
+
+2--Data manipulation language(DML)
+  1-Insert
+  2-Update
+  3-Delete
+
+3--Data control Language(DQL)
+  1-Grant
+  2-Revoke
+
+4--Transition control Langauage(TCL)
+   1-Commit
+   2-Savepoint 
+   3-Rollback
+
+5-- Data Query language (DQL)
+   1-Select
+   2-Projection
+   3-Selection
+   4-Jions
