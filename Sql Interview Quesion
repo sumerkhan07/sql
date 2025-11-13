@@ -1,0 +1,17 @@
+what is dbms?
+A Database Management System (DBMS) is a software system designed to create, manage,
+and retrieve data efficiently in a structured format. It enables users to store, organize,
+and manipulate data securely while maintaining data integrity, reducing redundancy, 
+and supporting concurrent access for multiple users.
+
+What is RDBMS?
+A Relational Database Management System (RDBMS) is a type of database management system 
+(DBMS) that stores data in a structured format using tables composed of rows and columns. 
+It organizes data based on the relational model, where data in different tables can be
+related to each other through keys like primary keys and foreign keys. 
+RDBMS software enables users to create, update, manage, and query these relational databases, 
+often using SQL (Structured Query Language).
+Key features of an RDBMS include data integrity, security, consistency, and support for concurrent 
+multi-user access. Popular examples of RDBMS include MySQL, Oracle, PostgreSQL, and Microsoft SQL Server. 
+The relational model offers flexibility, scalability, and an intuitive way to handle data and its relationships, 
+making RDBMS the foundation of most modern database systems.
